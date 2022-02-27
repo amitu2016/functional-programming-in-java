@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class FP02Functional {
-
+   
 	public static void main(String[] args) {
 		List<Integer> numbers = List.of(12, 9, 4, 7, 3, 2, 12, 8, 33, 22, 9, 2);
 		List<String> courses = List.of("Spring", "Spring Boot", "API", "Microservices", "AWS", "PCF", "Azure", "Docker","Kubernetes");
