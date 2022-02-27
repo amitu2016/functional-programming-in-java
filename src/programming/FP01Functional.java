@@ -6,8 +6,7 @@ public class FP01Functional {
 
 	public static void main(String[] args) {
 		List<Integer> numbers = List.of(12, 9, 4, 7, 3, 2, 12, 6, 35, 21, 9, 2);
-		List<String> courses = List.of("Spring", "Spring Boot", "API", "Microservices", "AWS", "PCF", "Azure", "Docker",
-				"Kubernetes");
+		List<String> courses = List.of("Spring", "Spring Boot", "API", "Microservices", "AWS", "PCF", "Azure", "Docker","Kubernetes");
 		// printAllNumbersInListFunctional(numbers);
 		// printEvenNumbersInListFunctional(numbers);
 		//printOddNumbersInListFunctional(numbers);
